@@ -1,3 +1,8 @@
+## Demo
+
+![DocAnswer in action](assets/demo_screenshot.png)
+
+
 # 📄 DocAnswer — Advanced RAG Pipeline
 
 > Ask questions. Get answers. Strictly from your document — no hallucinations, no guessing.
