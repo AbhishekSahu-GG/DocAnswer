@@ -1,0 +1,11 @@
+gradio==5.23.0
+huggingface_hub>=0.26.0
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-text-splitters
+pymupdf
+python-dotenv
+tiktoken
+chromadb
