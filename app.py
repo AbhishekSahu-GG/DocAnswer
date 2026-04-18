@@ -12,12 +12,12 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 
 # ── Config ───────────────────────────────────────────────────────────────
-MODEL          = "openai/gpt-4o-mini"
-EMBED_MODEL    = "text-embedding-3-large"
+MODEL          = "openai/gpt-5-nano"
+EMBED_MODEL    = "openai/text-embedding-3-small"
 OPENROUTER_URL = "https://openrouter.ai/api/v1"
 DB_NAME        = "/tmp/vector_db"          # /tmp is writable on HF Spaces
-CHUNK_SIZE     = 1000
-CHUNK_OVERLAP  = 300
+CHUNK_SIZE     = 500
+CHUNK_OVERLAP  = 150
 RETRIEVE_K     = 5
 TOP_K_FINAL    = 5
 HISTORY_TURNS  = 5
