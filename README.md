@@ -138,4 +138,4 @@ docAnswer/
 B.Tech Mechanical Engineering | M.Sc Data Science (Chandigarh University)
 Transitioning into Agentic AI Engineering
 
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME) · [HuggingFace](https://huggingface.co/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/abhishekksahu/) · [GitHub](https://github.com/AbhishekSahu-GG) · [HuggingFace](https://huggingface.co/MightyEagle1)
